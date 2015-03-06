@@ -157,6 +157,7 @@
 #coffeescript
 * [coffeescript](http://www.cheatography.com/apk/cheat-sheets/coffeescript-language/)
 * [coffeescript_cheatsheet](https://github.com/icebob/coffeescript_cheatsheet/)
+* [interactive_coffeescript_book](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
 ###coldfusion
 * [getting-started-coldfusion-9](http://refcardz.dzone.com/refcardz/getting-started-coldfusion-9)
